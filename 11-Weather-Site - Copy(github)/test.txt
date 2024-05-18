@@ -1,0 +1,10 @@
+<th style="width: 22%;">CloudPct</th>
+<th style="width: 22%;">FeelsLike</th>
+<th style="width: 22%;">Humidity</th>
+<th style="width: 22%;">MaxTemp</th>
+<th style="width: 22%;">MinTemp</th>
+<th style="width: 22%;">Sunrise</th>
+<th style="width: 22%;">Sunset</th>
+<th style="width: 22%;">Temp</th>
+<th style="width: 22%;">WindDegrees</th>
+<th style="width: 22%;">WindSpeed</th>
