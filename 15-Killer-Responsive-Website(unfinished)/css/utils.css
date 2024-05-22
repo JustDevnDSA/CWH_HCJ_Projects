@@ -1,0 +1,42 @@
+:root{
+    --main-bg-color : purple;
+}
+
+.max-w-1 {
+  max-width: 80vw;
+}
+
+.max-w-2 {
+  max-width: 60vw;
+}
+
+.m-auto {
+  margin: auto;
+}
+
+.btn {
+    padding: 4.5px 15px;
+    border: 2px solid black;
+    border-radius: 6px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: 0.4s;
+}
+
+.btn:hover{
+    color: white;
+    background: var(--main-bg-color);
+}
+
+.form-input{
+    padding: 3px 5px;
+    font-size: 16px;
+    border: 2px solid black;
+    border-radius: 4px;
+    margin: 0 13px;
+}
+
+.my-2{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
